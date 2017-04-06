@@ -1,0 +1,6 @@
+C:\Users\User\Source\Repos\Euler\Problem2\Problem2\bin\Debug\Problem2.exe.config
+C:\Users\User\Source\Repos\Euler\Problem2\Problem2\bin\Debug\Problem2.exe
+C:\Users\User\Source\Repos\Euler\Problem2\Problem2\bin\Debug\Problem2.pdb
+C:\Users\User\Source\Repos\Euler\Problem2\Problem2\obj\Debug\Problem2.csprojResolveAssemblyReference.cache
+C:\Users\User\Source\Repos\Euler\Problem2\Problem2\obj\Debug\Problem2.exe
+C:\Users\User\Source\Repos\Euler\Problem2\Problem2\obj\Debug\Problem2.pdb
